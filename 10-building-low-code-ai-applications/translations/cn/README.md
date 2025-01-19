@@ -1,6 +1,6 @@
 # 第十章：创建低代码的人工智能应用
 
-[![Building Low Code AI Applications](../../images/10-lesson-banner.png?WT.mc_id=academic-105485-koreyst)](https://learn.microsoft.com/_themes/docs.theme/master/en-us/_themes/global/video-embed.html?id=170c6cb7-3c96-40f2-a354-b6f0ec523de7?WT.mc_id=academic-105485-koreyst)
+[![Building Low Code AI Applications](../../images/10-lesson-banner.png?WT.mc_id=academic-105485-koreyst)](https://aka.ms/gen-ai-lesson10-gh?WT.mc_id=academic-105485-koreyst)
 
 > _(点击该图片看本章导学视频)_
 
@@ -45,7 +45,7 @@ Power Platform 为企业提供了让其团队能够通过直观的低代码或�
 
 通过生成式 AI 增强低代码开发和应用是 Power Platform 的重点关注领域。 目标是让每个人都能够构建人工智能驱动的应用程序、网站、仪表板并利用人工智能实现流程自动化，_无需任何数据科学专业知识_。 这一目标是通过将生成式 AI 以 Copilot 和 AI Builder 的形式集成到 Power Platform 的低代码开发体验中来实现的。
 
-＃＃＃ 这是如何运作的？
+### 这是如何运作的？
 
 Copilot 是一款 AI 助手，可让您使用自然语言以一系列对话步骤描述您的需求，从而构建 Power Platform 解决方案。 例如，您可以指示 AI 助手说明您的应用程序将使用哪些字段，它将创建应用程序和底层数据模型，或者您可以指定如何在 Power Automate 中设置流程。
 
@@ -71,7 +71,7 @@ Power Automate 中的 Copilot AI 助手功能使您能够描述您需要哪种�
 
 “Our Startup” 为学生提供在线课程。 这家初创公司发展迅速，目前正在努力满足其课程的需求。 该初创公司聘请您作为 Power Platform 开发人员，帮助他们构建低代码解决方案，以帮助他们管理学生作业和发票。 他们的解决方案应该能够帮助他们通过应用程序跟踪和管理学生作业，并通过工作流程自动化发票处理过程。 您被要求使用生成式人工智能来开发解决方案。
 
-当您开始使用 Copilot 时，可以使用 [Power Platform Copilot Prompt 库](https://pnp.github.io/powerplatform-prompts/?WT.mc_id=academic-109639-somelezediko) 作为提示词。 该库包含一系列提示，您可以使用这些提示与 Copilot 一起构建应用程序和流程。 您还可以使用库中的提示来了解如何向 Copilot 描述您的需求。
+当您开始使用 Copilot 时，可以使用 [Power Platform Copilot Prompt 库](https://github.com/pnp/powerplatform-prompts?WT.mc_id=academic-109639-somelezediko) 作为提示词。 该库包含一系列提示，您可以使用这些提示与 Copilot 一起构建应用程序和流程。 您还可以使用库中的提示来了解如何向 Copilot 描述您的需求。
 
 ### 为 “Our Startup” 构建学生作业跟踪应用程序
 
